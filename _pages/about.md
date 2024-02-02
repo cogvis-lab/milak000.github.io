@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.surrey.ac.uk/centre-vision-speech-signal-processing'>Centre for Vision, Speech and Signal Processing (CVSSP)</a>. 388 Stag Hill, Guildford GU2 7XH Stag Hill, University Campus, Guildford GU2 7XH.
 
 profile:
   align: right
