@@ -1,19 +1,19 @@
 ---
 layout: about
 inline: true
-group: Executive Board
+group: Group Leader
 group_rank: 1
-group_order: 3
+group_order: 1
 external: false
 
 
-title: Arturo Del Castillo Bernal
-description: Vice President Academic
-lastname: Del Castillo Bernal
+title: Prof. Richard Bowden
+description: Head of the Cognitive Vision Lab
+lastname: Bowden
 
 
 teaser: >
-    I represent the graduate membership at the department level in their academic matters. I attend various departmental and Faculty meetings and get academic updates to you. Outside of GAMES, I am a PhD student at the <a href="https://www.decar.ca/">DECAR Lab</a> working on developing robust 
+    Outside of GAMES, I am a PhD student at the <a href="https://www.decar.ca/">DECAR Lab</a> working on developing robust 
     algorithms for underwater navigation of UUV.
 
 profile:
