@@ -3,7 +3,6 @@ layout: about
 inline: false
 group: PhD student
 group_rank: 1
-group_order: 3
 
 title: Anton Pelykh
 description: Profile of Simon Hadfield, Senior Lecturer.
