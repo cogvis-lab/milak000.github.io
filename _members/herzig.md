@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: PhD student
-group_rank: 2
+group_rank: 3
 
 title: Alexandre Symeonidis-Herzig
 description: Profile of Simon Hadfield, Senior Lecturer.
