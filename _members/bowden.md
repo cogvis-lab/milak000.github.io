@@ -16,7 +16,7 @@ profile:
     name: Prof. Dr. Guido Salvaneschi
     position: Head of the Programming Group
     align: right
-    image: salvaneschi-profile.jpg
+    image: bowden-profile.jpg
     email: guido.salvaneschi@unisg.ch
     twitter: guidosalva
     linkedin: guido-salvaneschi-7201668
