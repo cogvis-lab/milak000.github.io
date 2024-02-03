@@ -4,7 +4,7 @@ permalink: /collaborator
 title: Collaborator
 description: Active collaborator
 nav: false
-nav_order: 8
+nav_order: 9
 ---
 
 ### Collaborator:

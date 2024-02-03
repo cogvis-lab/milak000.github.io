@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact
 nav: true
-nav_rank: 10
+nav_rank: 7
 description: Contact of the Cognitive Vision Lab.
 ---
 
