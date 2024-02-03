@@ -3,7 +3,7 @@ layout: page
 permalink: /former
 title: Former
 description: Former member of the group.
-nav: true
+nav: false
 ---
 
 ### Faculty:
