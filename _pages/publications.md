@@ -1,18 +1,14 @@
 ---
 layout: page
-permalink: /publications
+permalink: /publications/
 title: Publications
-description: Publications in reversed chronological order.
-years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009]
+description: Selected publications (see <a href='https://scholar.google.co.uk/citations?user=mvvgDvcAAAAJ&hl=en'>Google scholar</a> for full list)
 nav: true
-nav_rank: 4
 ---
 
+<!-- _pages/publications.md -->
 <div class="publications">
 
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}} && prggrp!=noGroupPublication]* %}
-{% endfor %}
+{% bibliography %}
 
 </div>

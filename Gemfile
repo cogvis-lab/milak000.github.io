@@ -1,16 +1,26 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'classifier-reborn'
     gem 'jekyll'
+    gem 'jekyll-archives'
     gem 'jekyll-email-protect'
-    gem 'jekyll-github-metadata'
-    gem 'jekyll-minibundle'
+    gem 'jekyll-feed'
+    gem 'jekyll-get-json'
+    gem 'jekyll-imagemagick'
+    gem 'jekyll-jupyter-notebook'
+    gem 'jekyll-link-attributes'
+    gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
-    gem 'jekyll-seo-tag'
     gem 'jekyll-scholar'
-    gem 'jekyll-twitter-plugin'
-    gem 'unicode_utils'
     gem 'jekyll-sitemap'
-    gem 'jekyll-regex-replace'
+    gem 'jekyll-toc'
+    gem 'jekyll-twitter-plugin'
+    gem 'jemoji'
+    gem 'mini_racer'
+    gem 'unicode_utils'
+    gem 'webrick'
 end
-
-gem "webrick", "~> 1.7"
+group :other_plugins do
+    gem 'feedjira'
+    gem 'httparty'
+end

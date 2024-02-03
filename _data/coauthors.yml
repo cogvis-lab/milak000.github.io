@@ -1,35 +1,34 @@
-"Delshad":
-  - firstname: [ "Benyamin", "B.", "Benyamin Delshad" ]
-    url: /members/delshad
+"adams":
+  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"Eskandani":
-  - firstname: [ "Nafise", "N.", "Nafise Eskandani" ]
-    url: /members/eskandani
+"podolsky":
+  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"Köhler":
-  - firstname: [ "Mirko", "M.", "Mirko Köhler" ]
-    url: /members/koehler
+"rosen":
+  - firstname: ["Nathan", "N."]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"Oak":
-  - firstname: [ "Aditya", "A.", "Aditya Oak" ]
-    url: /members/oak
+"bach":
+  - firstname: ["Johann Sebastian", "J. S."]
+    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-"Salvaneschi":
-  - firstname: ["Guido", "G.", "Guido Salvaneschi"]
-    url: /members/salvaneschi
+  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"Sokolowski":
-  - firstname: [ "Daniel", "D.", "Daniel Sokolowski" ]
-    url: /members/sokolowski
+"przibram":
+  - firstname: ["Karl"]
+    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"Spielmann":
-  - firstname: [ "David", "D.", "David Spielmann" ]
-    url: /members/spielmann
+"schrodinger":
+  - firstname: ["Erwin"]
+    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"Weisenburger":
-  - firstname: [ "Pascal", "P.", "Pascal Weisenburger" ]
-    url: /members/weisenburger
+"lorentz":
+  - firstname: ["Hendrik Antoon"]
+    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
 
-"Zakhour":
-  - firstname: [ "George", "g.", "George Zakhour" ]
-    url: /members/zakhour
+"planck":
+  - firstname: ["Max"]
+    url: https://en.wikipedia.org/wiki/Max_Planck
