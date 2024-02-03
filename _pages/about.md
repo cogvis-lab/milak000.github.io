@@ -9,8 +9,8 @@ profile:
   name: Prof. Richard Bowden
   position: <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing">Centre for Vision, Speech and Signal Processing (CVSSP)</a> <br /><a href="https://www.surrey.ac.uk">University Of Surrey</a>
   align: right
-  address: >
-        <br />Office 123<br />
+  more_info: >
+        <br /> <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing">Centre for Vision, Speech and Signal Processing (CVSSP)</a> <br /><a href="https://www.surrey.ac.uk">University Of Surrey</a> <br />
         Stag Hill, University Campus, <br />
         Guildford GU2 7XH    
 
