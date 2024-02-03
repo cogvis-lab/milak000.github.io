@@ -7,7 +7,7 @@ dropdown: true
 children:
   - title: Current
     permalink: /team
-  - title: former
+  - title: Former
     permalink: /former
   - title: Collaborators
 ---
