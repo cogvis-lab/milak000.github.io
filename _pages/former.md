@@ -4,7 +4,6 @@ permalink: /former
 title: Former
 description: Former member of the group.
 nav: false
-nav_order: 8
 ---
 
 ### Faculty:
