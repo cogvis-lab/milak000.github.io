@@ -3,6 +3,7 @@ layout: page
 title: Vacancies
 permalink: /positions/
 nav: true
+nav_order: 5
 ---
 
 <h2> Open positions </h2>
