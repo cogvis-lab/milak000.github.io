@@ -3,6 +3,7 @@ layout: about
 inline: false
 group: Faculty
 group_rank: 1
+group_order: 1
 
 title: Prof. Richard Bowden
 description: Profile of Prof. Richard Bowden, Head of the Programming Group.

@@ -3,6 +3,7 @@ layout: about
 inline: false
 group: Research Staff
 group_rank: 1
+group_order: 2
 
 title: Dr. Ozge Mercanoglu Sincan
 description: Profile of Simon Hadfield, Senior Lecturer.
