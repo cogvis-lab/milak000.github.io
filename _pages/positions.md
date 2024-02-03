@@ -5,7 +5,7 @@ permalink: /positions/
 nav: true
 ---
 
-## Open positions
+<h2> Open positions </h2>
 We are always looking for new group members with passion, talent, and grit!
 
 You will have the chance to work on the grand challenges of particle physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, charting new directions, enhancing scientific capabilities, collecting and analyzing data from frontier experiements, and making discoveries!
