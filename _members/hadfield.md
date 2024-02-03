@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Faculty
-group_rank: 1
+group_rank: 2
 
 title: Dr. Simon Hadfield
 description: Profile of Simon Hadfield, Senior Lecturer.
