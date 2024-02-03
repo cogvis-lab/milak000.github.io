@@ -4,8 +4,8 @@ inline: false
 group: Faculty
 group_rank: 1
 
-title: Prof. Dr. Guido Salvaneschi
-description: Profile of Prof. Dr. Guido Salvaneschi, Head of the Programming Group.
+title: Prof. Richard Bowden
+description: Profile of Prof. Richard Bowden, Head of the Programming Group.
 lastname: Bowden
 
 teaser: >
@@ -13,7 +13,7 @@ teaser: >
     Before, I have been an assistant professor at TU Darmstadt, where I led the Reactive Software Systems group.
 
 profile:
-    name: Prof. Dr. Guido Salvaneschi
+    name: Prof. Richard Bowden
     position: Head of the Programming Group
     align: right
     image: bowden-profile.jpg
