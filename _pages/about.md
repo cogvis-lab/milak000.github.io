@@ -1,16 +1,11 @@
 ---
 layout: about
-title: about
-page-title: About
+title: About
 permalink: /
 subtitle:
 
 profile:
-  align: right
-  more_info: >
-        <br /> <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing">Centre for Vision, Speech and Signal Processing (CVSSP)</a> <br /><a href="https://www.surrey.ac.uk">University Of Surrey</a> <br />
-        Stag Hill, University Campus, <br />
-        Guildford GU2 7XH    
+  align: right   
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
