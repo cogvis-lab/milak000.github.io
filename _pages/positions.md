@@ -2,6 +2,7 @@
 layout: page
 title: Vacancies
 permalink: /positions/
+nav: true
 ---
 
 Open positions
