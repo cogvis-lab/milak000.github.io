@@ -6,7 +6,7 @@ description: Members and close collaborators of the group.
 nav: false
 ---
 
-{% assign groups = site.members | sort: "group_order" | map: "group" | uniq %}
+{% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
 {% for group in groups %}
 ## {{ group }}
 
