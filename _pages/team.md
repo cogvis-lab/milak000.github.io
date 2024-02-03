@@ -4,7 +4,7 @@ permalink: /team
 title: Team
 description: Members and close collaborators of the group.
 nav: false
-nav_order: 8
+nav_order: 7
 ---
 
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
