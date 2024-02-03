@@ -6,7 +6,7 @@ nav_order: 8
 dropdown: true
 children:
   - title: Current
-    permalink: /team/
+    permalink: /team
   - title: former
     permalink: /former
   - title: Collaborators
