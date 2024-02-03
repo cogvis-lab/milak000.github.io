@@ -10,4 +10,5 @@ children:
   - title: Former
     permalink: /former
   - title: Collaborators
+    permalink: /collaborator
 ---
