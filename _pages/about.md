@@ -6,14 +6,13 @@ permalink: /
 subtitle:
 
 profile:
-  name: Graduate Association of Mechanical Engineering Students
-  position: <a href="https://www.mcgill.ca/mecheng/">Department of Mechanical Engineering</a> <br /><a href="https://www.mcgill.ca/">McGill University</a>
+  name: Prof. Richard Bowden
+  position: <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing">Centre for Vision, Speech and Signal Processing (CVSSP)</a> <br /><a href="https://www.surrey.ac.uk">University Of Surrey</a>
   align: right
   address: >
         <br />Office 123<br />
-        McConnel Engineering Building<br />
-        817 Sherbrooke Street West<br />        
-        Montreal, Quebec H3A 0C3    
+        Stag Hill, University Campus, <br />
+        Guildford GU2 7XH    
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
