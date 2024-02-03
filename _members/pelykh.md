@@ -6,7 +6,7 @@ group_rank: 1
 
 title: Anton Pelykh
 description: Profile of Simon Hadfield, Senior Lecturer.
-lastname: Sincan
+lastname: Pelykh
 
 teaser: >
     I’m a (tenured) Associate Professor at the University of St.Gallen from September 2020.
