@@ -1,10 +1,10 @@
 ---
 layout: page
-title: EASIER
+title: project 1
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: grant
+category: work
 related_publications: true
 ---
 

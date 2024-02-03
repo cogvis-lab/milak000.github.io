@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Google AI
+title: project 4
 description: another without an image
 img:
 importance: 3
-category: grant
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
