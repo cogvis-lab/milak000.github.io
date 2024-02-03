@@ -14,7 +14,7 @@ nav_rank: 2
     {% assign members = site.members | sort: "lastname" | where: "group", group %}
     {% for member in members %}
 <p>
-    Hello
+    {{ member.profile.name }}
 </p>
     {% endfor %}
 {% endfor %}
