@@ -16,7 +16,7 @@ profile:
     name: Prof. Richard Bowden
     position: Head of the Programming Group
     align: right
-    image: bowden-profile.jpg
+    image: bowden-profile.png
     email: guido.salvaneschi@unisg.ch
     twitter: guidosalva
     linkedin: guido-salvaneschi-7201668
