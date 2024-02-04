@@ -12,7 +12,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Overview
 **Few areas of machine learning have moved faster than robotics over the past 20 years – and few will be more important in the future. In our Centre, robotics research has evolved from relatively simple experiments involving a specific task to the development of cognitive systems which can learn, adapt to new environments, and collaborate with each other.**
 
 Our consistent focus has always been building machines that can ‘learn by doing’ rather than being programmed with innate abilities. Over the years, our robotics lab has moved away from industrial robot arms to humanoid robots such as ‘Baxter’ and ‘Pepper’. Using Baxter, researchers are currently working with a major retailer to explore how the online shopping process could be optimised if robots were used in fulfilment centres to pick and bag products.
