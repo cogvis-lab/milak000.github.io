@@ -9,9 +9,7 @@ description: Contact of the Cognitive Vision Lab.
 
 [<i class="fas fa-envelope"></i> r.bowden@surrey.ac.uk](mailto:r.bowden@surrey.ac.uk)
 
-School of Computer Science\\
-c/o Prof. Richard Bowden\\
-Office 64-114\\
-Torstrasse 25\\
-9000 St. Gallen\\
-Switzerland
+Prof. Richard Bowden\\
+Office 22 BA 00\\
+388 Stag Hill, University Campus, \\
+Guildford GU2 7XH, UK
