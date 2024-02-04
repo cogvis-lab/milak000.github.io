@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TMLR paper []"Deconstructing Self-Supervised Monocular Reconstruction"](https://openreview.net/forum?id=GFK1FheE7F) accepted.
+TMLR paper ["Deconstructing Self-Supervised Monocular Reconstruction"](https://openreview.net/forum?id=GFK1FheE7F) accepted.
