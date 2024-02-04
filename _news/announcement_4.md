@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TMLR paper []"A Free Lunch with Influence Functions?..."](https://openreview.net/forum?id=dQxBRqCjLr) accepted
+TMLR paper ["A Free Lunch with Influence Functions?..."](https://openreview.net/forum?id=dQxBRqCjLr) accepted
