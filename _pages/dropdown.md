@@ -9,6 +9,4 @@ children:
     permalink: /team
   - title: Former
     permalink: /former
-  - title: Collaborators
-    permalink: /collaborator
 ---

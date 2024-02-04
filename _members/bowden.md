@@ -5,22 +5,18 @@ group: Faculty
 group_rank: 1
 
 title: Prof. Richard Bowden
-description: Profile of Prof. Richard Bowden, Head of the Programming Group.
+description: Profile of Prof. Richard Bowden, Head of the Cognitive Vision Lab.
 lastname: Bowden
 
 teaser: >
-    I’m a (tenured) Associate Professor at the University of St.Gallen from September 2020.
-    Before, I have been an assistant professor at TU Darmstadt, where I led the Reactive Software Systems group.
+    Richard Bowden is Professor of computer vision and machine learning at the University of Surrey where he leads the Cognitive Vision Lab within the Centre for Vision, Speech and Signal Processing.
 
 profile:
     name: Prof. Richard Bowden
-    position: Head of the Programming Group
+    position: Head of the Cognitive Vision Lab
     align: right
     image: bowden-profile.png
     email: guido.salvaneschi@unisg.ch
-    twitter: guidosalva
-    linkedin: guido-salvaneschi-7201668
-    orcid: 0000-0002-9324-8894
     address: >
         School of Computer Science<br />
         Office 64-114<br />
@@ -28,26 +24,17 @@ profile:
         9000 St. Gallen, Switzerland
 ---
 
-I’m a (tenured) Associate Professor at the University of St.Gallen from September 2020.
-Before, I have been an assistant professor at TU Darmstadt, where I led the Reactive Software Systems group.
+Richard Bowden received a BSc in computer science from the University of London in ’93, an MSc with distinction from the University of Leeds in ’95, and a PhD in computer vision from Brunel University in ’99 for which he was awarded the Sullivan Doctoral Thesis Prize for the best UK thesis in computer vision. An award also won by two of his PhD students in 2017 and 2018. He is [Professor of Computer Vision and Machine Learning at the University of Surrey](https://www.surrey.ac.uk/people/richard-bowden), UK, where he leads the Cognitive Vision Group within the Centre for Vision Speech and Signal Processing and was awarded a Royal Society Leverhulme Trust Senior Research Fellowship in 2013. His research centres on the use of computer vision to locate, track, and understand humans. He has been Associate Editor for Image and Vision Computing since 2009 and from 2013-2019 IEEE Pattern Analysis and Machine Intelligence. He was a member of the British Machine Vision Association (BMVA) executive committee and a company director for seven years. He is a member of the BMVA, a fellow of the Higher Education Academy, a senior member of the IEEE and a Fellow of the International Association of Pattern Recognition.
 
+## Affiliations and memberships
 
-## Reviewer for Journals
-
-* IEEE Transactions on Software Engineering (TSE)
-* ACM Transactions on Software Engineering and Methodology (TOSEM)
-* Springer International Journal on Very Large Data Bases (VLDB)
-* Elsevier Journal of Systems and Software (JSS)
-* Elsevier Science of Computer Programming
-* IEEE Transactions on Computers
-* Elsevier Journal of Computer Languages
-* Elsevier Knowledge-based Engineering
-* IEEE Internet Computing
-* ACM Transactions on Autonomous and Adaptive Systems (TAAS)
-* Springer Empirical Software Engineering
-* Elsevier Information and Software Technology
-* Elsevier Pervasive and Mobile Computing
-* LNCS Transactions on Aspect-Oriented Software Development
+* IEEE Pattern Analysis and Machine Learning -- Associate Editor
+* Image and Vision Computing journal -- Associate Editor
+* British Machine Vision Association (BMVA) Executive Committee -- Previous member
+* British Machine Vision Association (BMVA) Executive Committee -- Previous Company Director
+* Higher Education Academy -- Fellow
+* IEEE -- Senior Member
+* IAPR -- Fellow
 
 
 ## Organization of Scientific Events
