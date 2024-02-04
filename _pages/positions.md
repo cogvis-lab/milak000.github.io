@@ -6,16 +6,13 @@ nav: true
 nav_order: 4
 ---
 
-<h2> Open positions </h2>
-We are always looking for new group members with passion, talent, and grit!
-
-You will have the chance to work on the grand challenges of particle physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, charting new directions, enhancing scientific capabilities, collecting and analyzing data from frontier experiements, and making discoveries!
+### PhD students
+I'm always looking for good PhD candidates but normally when I have funding available it is for UK or EU students. This is sometimes due to restrictions on the funding but more often than not more to do with the difference between home and overseas fees. However, if you are an exceptional candidate, then drop me an email. I am happy to work with high caliber candidates to obtain scholarships either internally or from external funders such as the China Scholarship Council or the Commonwealth Scholarship Council.
 
 ### Postdoctoral Research Associates
-Posted: December 7, 2022: Our group currently has an opening for a postdoc. Apply by January 9, 2023 for full consideration. See the postdoc ad and the information therein, including how to apply.
+We are always looking for good postdoc candidates to work with us.
 
-### Masters students
-Our group research lies at the intersection of artificial intelligence and physics, leveraging tools from data science. I am interested in CS and ECE Masters students to join our group. Please send me an email. State briefly why you are interested and attach a CV with any skills and past experience that you would like to highlight.
+- ~~ [Research Fellow in Computer Vision and Deep Learning](https://www.jobs.ac.uk/job/DEO878/research-fellow-in-computer-vision-and-deep-learning). Deadline 14th January 2024~~
 
-### PhD and undergraduate students
-If you are interested in working with us as a PhD student or undergraduate researcher, please send me an email. State briefly why you are interested and attach a CV with any skills and past experience that you would like to highlight.
+#### Internship
+Please note that we do not operate an internship scheme so if you're emailing me about this its likely to go unanswered.
