@@ -17,6 +17,9 @@ profile:
     align: right
     image: lakhal-profile.jpg
     email: m.lakhal@surrey.ac.uk
+    linkedin: mohamed-ilyes-lakhal
+    website: https://mlakhal.github.io
+    github: mlakhal
     twitter: 
     orcid: 0000-0003-4432-9740
     address: >
