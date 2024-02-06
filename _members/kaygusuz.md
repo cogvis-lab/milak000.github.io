@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Research Staff
-group_rank: 2
+group_rank: 3
 
 title: Dr Nimet Kaygusuz
 description: Profile of Simon Hadfield, Senior Lecturer.

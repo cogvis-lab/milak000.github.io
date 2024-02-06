@@ -9,12 +9,11 @@ description: Profile of Simon Hadfield, Senior Lecturer.
 lastname: Hadfield
 
 teaser: >
-    I’m a (tenured) Associate Professor at the University of St.Gallen from September 2020.
-    Before, I have been an assistant professor at TU Darmstadt, where I led the Reactive Software Systems group.
+    Simon Hadfield is Associate Professor (Reader) in Robot Vision & Autonomous Systems at the University of Surrey, leading a team of >10 researchers, exploring perception and intelligence for robotic systems.
 
 profile:
     name: Dr. Simon Hadfield
-    position: Senior Lecturer
+    position: Associate Professor (Reader)
     align: right
     image: hadfield-profile.png
     email: guido.salvaneschi@unisg.ch
