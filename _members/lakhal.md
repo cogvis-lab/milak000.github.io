@@ -26,4 +26,4 @@ profile:
         Office 10 BA 00, CVSSP, University of Surrey, Guidlford, Surrey, GU27XH<br />
 ---
 ## Short Bio
-Mohamed Lakhal is a Research Fellow in Computer Vision and Deep Learning, where he works on Sign Language Production. In particular, he works on generative models for Photo-Realistic Sign Language Video Generation. He holds a PhD in computer science from Queen Mary University of London, where he explored pose-guided human image synthesis in a multi-view setting.
+Mohamed Lakhal is a Research Fellow in Computer Vision and Deep Learning, where he works on Sign Language Production. In particular, he works on generative models for Photo-Realistic Sign Language Video Generation. He holds a PhD in computer science from Queen Mary University of London, where he explored pose-guided human image synthesis in multi-view settings.
