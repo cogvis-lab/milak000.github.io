@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: members
 inline: false
 group: PhD student
 group_rank: 3

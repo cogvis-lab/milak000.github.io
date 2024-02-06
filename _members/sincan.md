@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: members
 inline: false
 group: Research Staff
 group_rank: 1
