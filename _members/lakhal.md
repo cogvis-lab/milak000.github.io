@@ -15,7 +15,7 @@ profile:
     name: Dr. Mohamed Ilyes Lakhal
     position: Research Fellow
     align: right
-    image: lakhal-profile.png
+    image: lakhal-profile.jpg
     email: m.lakhal@surrey.ac.uk
     twitter: 
     orcid: 0000-0003-4432-9740
