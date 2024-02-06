@@ -18,7 +18,7 @@ profile:
     image: lakhal-profile.png
     email: m.lakhal@surrey.ac.uk
     twitter: 
-    orcid: 0000-0003-3285-8020
+    orcid: 0000-0003-4432-9740
     address: >
         Office 10 BA 00, CVSSP, University of Surrey, Guidlford, Surrey, GU27XH<br />
 ---
