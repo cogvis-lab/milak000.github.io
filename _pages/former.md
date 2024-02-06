@@ -6,10 +6,6 @@ description: Former member of the group.
 nav: false
 ---
 
-### Faculty:
-
-- Dr. Oscar Mendez, now ...
-
 ### Research Fellow:
 
 - Dr. Ben Saunders, now CTO at Signapse

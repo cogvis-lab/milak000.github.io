@@ -2,7 +2,10 @@
 layout: about
 title: About
 permalink: /
-subtitle:
+nav: true
+nav_rank: 1
+sitetitle: true
+description: Welcome to the Cognitive Vision Lab at the University of Surrey
 
 profile:
   align: right   
