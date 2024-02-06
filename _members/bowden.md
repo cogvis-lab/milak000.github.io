@@ -17,6 +17,8 @@ profile:
     align: right
     image: bowden-profile.png
     linkedin: richard-bowden-98505811
+    website: https://personalpages.surrey.ac.uk/r.bowden/
+    phone: +44 (0)1483689838
     email: r.bowden@surrey.ac.uk
     twitter: cogvis
     orcid: 0000-0003-3285-8020
