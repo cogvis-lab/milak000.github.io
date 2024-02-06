@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact
+permalink: /contact/
 description: Contact of the Cognitive Vision Lab.
 nav: true
 nav_rank: 9
