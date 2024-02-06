@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact
 description: Contact of the Cognitive Vision Lab.
 nav: true
-nav_rank: 7
+nav_rank: 9
 ---
 
 [<i class="fas fa-envelope"></i> r.bowden@surrey.ac.uk](mailto:r.bowden@surrey.ac.uk)

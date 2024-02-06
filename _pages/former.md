@@ -4,6 +4,7 @@ permalink: /former
 title: Former
 description: Former member of the group.
 nav: false
+nav_rank: 8
 ---
 
 ### Research Fellow:
