@@ -25,5 +25,5 @@ profile:
     address: >
         Office 11 BA 00, CVSSP, University of Surrey, Guidlford, Surrey, GU27XH<br />
 ---
-
+## Short Bio
 Simon Hadfield is Associate Professor (Reader) leading a team of over 10 researchers. Since receiving his PhD without corrections in 2013, he has managed a number of successful research projects and been involved in supervising 13 PhD students to successful completion. This includes the winner of the Sullivan Thesis Prize (for the best UK computer vision PhD) in 2021. He has published an average of two top tier journal articles and 3 high impact conference articles per year, accruing over 5600 citations (H-index of 22) at the time of writing. Dr Hadfield's research interests focus on Robotics, Computer Vision and Machine Learning, with a particular emphasis on the effective exploitation of novel visual sensors. As part of the EPSRC "Reflexive Robotics" project, Dr Hadfield published some foundational work on the application of deep learning directly to the event stream of asynchronous cameras, without intermediate aggregation, for both supervised and reinforcement learning. He is also involved in the InnovateUK "FlexBot" project exploring cutting-edge navigation and SLAM systems for agricultural robotics.
