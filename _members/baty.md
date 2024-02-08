@@ -15,7 +15,7 @@ profile:
     name: Enis Baty
     position: Postgraduate Researcher
     align: right
-    image: baty-profile.png
+    image: baty-profile.jpg
     email: e.baty@surrey.ac.uk
     linkedin: enisbaty
     website: 
