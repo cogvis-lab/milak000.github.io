@@ -15,7 +15,7 @@ profile:
     name: James Ross
     position: Postgraduate Researcher
     align: right
-    image: ross-profile.png
+    image: ross-profile.jpg
     email: j.ross@surrey.ac.uk
     linkedin: 
     website: 
