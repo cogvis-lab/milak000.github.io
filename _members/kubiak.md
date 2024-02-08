@@ -15,7 +15,7 @@ profile:
     name: Nikolina Kubiak
     position: Postgraduate Researcher
     align: right
-    image: 
+    image: phdm-profile.png
     email: n.kubiak@surrey.ac.uk
     linkedin: nikolina-kubiak
     website: 

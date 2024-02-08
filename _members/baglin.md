@@ -15,7 +15,7 @@ profile:
     name: Isaac Baglin
     position: Postgraduate Researcher
     align: right
-    image: 
+    image: phdm-profile.png
     email: ib00304@surrey.ac.uk
     linkedin: 
     website: 

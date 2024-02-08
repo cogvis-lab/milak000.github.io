@@ -15,7 +15,7 @@ profile:
     name: Ryan Wong
     position: Postgraduate Researcher
     align: right
-    image: 
+    image: phdm-profile.png
     email: r.wong@surrey.ac.uk
     linkedin: ryan-wong-83a90b121
     website: 
