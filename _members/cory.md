@@ -15,7 +15,7 @@ profile:
     name: Oliver Cory
     position: Postgraduate Researcher
     align: right
-    image: cory-profile.png
+    image: cory-profile.jpg
     email: oc00271@surrey.ac.uk
     linkedin: oliver-cory-5211302b4
     website: 
