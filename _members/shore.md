@@ -19,6 +19,7 @@ profile:
     email: t.shore@surrey.ac.uk
     linkedin: tgshore
     website: https://www.surrey.ac.uk/people/tavis-shore
+    scholar_userid: jHEABmkAAAAJ
     github: 
     twitter: 
     orcid: 0000-0002-3877-4736

@@ -18,6 +18,8 @@ profile:
     image: bowden-profile.png
     linkedin: richard-bowden-98505811
     website: https://personalpages.surrey.ac.uk/r.bowden/
+    scholar_userid: mvvgDvcAAAAJ
+    research_gate_profile: Richard-Bowden
     phone: +44 (0)1483689838
     email: r.bowden@surrey.ac.uk
     twitter: cogvis

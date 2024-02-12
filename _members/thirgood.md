@@ -18,7 +18,7 @@ profile:
     image: phdm-profile.png
     email: c.thirgood@surrey.ac.uk
     linkedin: 
-    website: https://scholar.google.com/citations?user=_A2p6XQAAAAJ&hl=en&oi=ao
+    scholar_userid: _A2p6XQAAAAJ
     github: 
     twitter: 
     orcid: 

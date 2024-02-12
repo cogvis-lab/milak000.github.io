@@ -17,7 +17,7 @@ profile:
     align: right
     image: sincan-profile.png
     email: o.mercanoglusincan@surrey.ac.uk
-    website: https://scholar.google.com/citations?user=nACVfjYAAAAJ&hl=en&oi=ao
+    scholar_userid: nACVfjYAAAAJ
     twitter: 
     linkedin: ozgemercanoglusincan
     orcid: 0000-0001-9131-0634

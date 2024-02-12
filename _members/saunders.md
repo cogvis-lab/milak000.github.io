@@ -18,7 +18,7 @@ profile:
     image: saunders-profile.png
     email: b.saunders@surrey.ac.uk
     linkedin: bensaunders27
-    website: https://scholar.google.com/citations?user=DQfrcJkAAAAJ&hl=en
+    scholar_userid: DQfrcJkAAAAJ
     github: 
     twitter: 
     orcid: 

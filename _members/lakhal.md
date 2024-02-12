@@ -20,6 +20,7 @@ profile:
     linkedin: mohamed-ilyes-lakhal
     website: https://mlakhal.github.io
     github: mlakhal
+    scholar_userid: sYOEurMAAAAJ
     twitter: 
     orcid: 0000-0003-4432-9740
     address: >

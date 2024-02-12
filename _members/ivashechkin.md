@@ -18,7 +18,7 @@ profile:
     image: phdm-profile.png
     email: m.ivashechkin@surrey.ac.uk
     linkedin: maksym-ivashechkin-770186185
-    website: https://scholar.google.com/citations?user=Fpqma2kAAAAJ&hl=en
+    scholar_userid: Fpqma2kAAAAJ
     github: 
     twitter: 
     orcid: 0000-0003-4003-7847

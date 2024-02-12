@@ -18,7 +18,7 @@ profile:
     image: kaygusuz-profile.png
     email: nimet.kaygusuz@surrey.ac.uk
     twitter: 
-    website: https://scholar.google.com/citations?user=73XX0p0AAAAJ&hl=en
+    scholar_userid: 73XX0p0AAAAJ
     linkedin: 
     orcid: 
     address: >

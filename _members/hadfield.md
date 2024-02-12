@@ -22,6 +22,8 @@ profile:
     phone: +44 (0)1483689856
     orcid: 
     website: http://personalpages.surrey.ac.uk/s.hadfield/
+    scholar_userid: KuQs_N0AAAAJ
+    research_gate_profile: Simon-Hadfield
     address: >
         Office 11 BA 00, CVSSP, University of Surrey, Guidlford, Surrey, GU27XH<br />
 ---

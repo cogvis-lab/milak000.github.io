@@ -18,7 +18,7 @@ profile:
     image: walsh-profile.png
     email: harry.walsh@surrey.ac.uk
     linkedin: harry-walsh-6b5910172
-    website: https://scholar.google.com/citations?user=0H4urUIAAAAJ&hl=en
+    scholar_userid: 0H4urUIAAAAJ
     github: 
     twitter: 
     orcid: 0000-0003-4003-7847
