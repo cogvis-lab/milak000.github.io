@@ -15,7 +15,7 @@ profile:
     name: George Alcolado Nuthall
     position: Postgraduate Researcher
     align: right
-    image: phdm-profile.png
+    image: nuthall-profile.jpg
     email: galcoladonuthall@surrey.ac.uk
     linkedin: galcoladonuthall
     website: 
