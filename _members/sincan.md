@@ -22,10 +22,7 @@ profile:
     linkedin: ozgemercanoglusincan
     orcid: 0000-0001-9131-0634
     address: >
-        School of Computer Science<br />
-        Office 64-114<br />
-        Torstrasse 25<br />
-        9000 St. Gallen, Switzerland
+        Office 10 BA 00, CVSSP, University of Surrey, Guidlford, Surrey, GU27XH<br />
 ---
 
 ## Short Bio
